@@ -1,0 +1,160 @@
+{
+  "k": 3,
+  "seed": 1071257924,
+  "loads": {
+    "ev-01": [
+      "q009",
+      "q006",
+      "q007",
+      "q003",
+      "q001",
+      "q002"
+    ],
+    "ev-02": [
+      "q010",
+      "q007",
+      "q001",
+      "q002",
+      "q008",
+      "q003"
+    ],
+    "ev-03": [
+      "q002",
+      "q001",
+      "q010",
+      "q006",
+      "q009",
+      "q008"
+    ],
+    "ev-04": [
+      "q008",
+      "q007",
+      "q003",
+      "q009",
+      "q010",
+      "q006"
+    ]
+  },
+  "judgments": [
+    {
+      "evaluatorId": "ev-02",
+      "questionId": "q002",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-03",
+      "questionId": "q002",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-01",
+      "questionId": "q002",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-04",
+      "questionId": "q010",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-03",
+      "questionId": "q010",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-02",
+      "questionId": "q010",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-01",
+      "questionId": "q007",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-02",
+      "questionId": "q007",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-04",
+      "questionId": "q007",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-02",
+      "questionId": "q003",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-04",
+      "questionId": "q003",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-01",
+      "questionId": "q003",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-03",
+      "questionId": "q001",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-02",
+      "questionId": "q001",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-01",
+      "questionId": "q001",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-03",
+      "questionId": "q008",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-02",
+      "questionId": "q008",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-04",
+      "questionId": "q008",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-04",
+      "questionId": "q006",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-03",
+      "questionId": "q006",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-01",
+      "questionId": "q006",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-04",
+      "questionId": "q009",
+      "systemA": "sovereign"
+    },
+    {
+      "evaluatorId": "ev-03",
+      "questionId": "q009",
+      "systemA": "baseline"
+    },
+    {
+      "evaluatorId": "ev-01",
+      "questionId": "q009",
+      "systemA": "baseline"
+    }
+  ]
+}
