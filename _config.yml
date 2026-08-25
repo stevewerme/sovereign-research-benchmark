@@ -1,0 +1,10 @@
+# GitHub Pages serves index.md (the essay) as the site root; README.md remains the
+# repository's data-and-protocol landing page on github.com. Canonical URL:
+# https://stevewerme.github.io/sovereign-research-benchmark/
+title: Sovereign Research Benchmark
+description: >-
+  Four weekends, three falsifiable goals, two of them failed. An EU-sovereign
+  research pipeline measured against a whole-web baseline — with the question
+  set, labels and protocol published alongside.
+theme: jekyll-theme-primer
+show_downloads: false
